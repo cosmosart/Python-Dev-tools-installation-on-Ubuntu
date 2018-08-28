@@ -12,4 +12,4 @@ If you don't have any experience with apache spark setup, highly recommend using
  * Firstly, update and upgrade OS
     > sudo apt update && sudo apt upgrade -y
  * Install python3 and pip
-    > sudo apt-get -y install python2.7 python-pip
+    > sudo apt-get -y install python3 python3-pip
