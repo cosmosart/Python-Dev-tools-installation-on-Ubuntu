@@ -10,9 +10,11 @@
 If you don't have any experience with apache spark setup, highly recommend using Ubuntu for this course.
 
  * Firstly, update and upgrade OS
-    > sudo apt update && sudo apt upgrade -y <
+    > sudo apt update && sudo apt upgrade -y 
  * Install python3, pip and upgrade
     > sudo apt-get -y install python3 python3-pip
     > sudo pip3 install --upgrade pip
  * Install jupyter notebook
     > pip3 install jupyter
+ * Install python packages
+    > pip3 install -U matplotlib scipy findspark jupyter_contrib_nbextensions ipywidgets pandas sklearn ipyleaflet seaborn xgboost pydotplus GraphViz tensorflow tensorboard
