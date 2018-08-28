@@ -20,3 +20,5 @@ If you don't have any experience with apache spark setup, highly recommend using
        > pip3 install -U matplotlib scipy findspark jupyter_contrib_nbextensions ipywidgets pandas sklearn ipyleaflet seaborn xgboost pydotplus GraphViz tensorflow tensorboard
 
  * secondly, we need to install apache spark. Unless you are not Java expert I recommend stick to Java version 8  
+
+# To be continue
