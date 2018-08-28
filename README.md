@@ -1,5 +1,5 @@
-# edX_UCSD_microMaster_DSE230_environment_setup
-
 # Setting up an Apache Spark environment from scratch.
-## 1. On Ubuntu
+
+### 1. For Ubuntu Users
+If you don't have any experience with apache spark setup, highly recommend using Ubuntu for this course.
 
